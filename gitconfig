@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = patrick.c.almeida@gmail.com
+	name = Patrick Almeida
